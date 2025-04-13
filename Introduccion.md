@@ -67,7 +67,7 @@ Por ejemplo: Un "Animal" debido a que comparten la emision de algun sonido, pero
 * **Postcondiciones:** Turno deseado confirmado.
 
 
-## Notificaciones 
+### Notificaciones 
 
 * **Actor:** Plataforma/Aplicacion.
 * **Descripcion:** La plataforma envia informacion y avisos por asignaciones/cancelaciones.
@@ -79,7 +79,7 @@ Por ejemplo: Un "Animal" debido a que comparten la emision de algun sonido, pero
 * **Postcondiciones:** El usuario quedara avisado sobre las confirmacion o posibles cambios.
 
 
-## Historial de turnos
+### Historial de turnos
 
 * **Actor:** Usuario/Plataforma.
 * **Descripcion:** El usuario podra ver turnos/consultas efectuadas anteriormente.
@@ -90,7 +90,7 @@ Por ejemplo: Un "Animal" debido a que comparten la emision de algun sonido, pero
 * **Precondiciones:** El usuario debera haber tomado un pedido previamente.
 * **Postcondiciones:** El mismo podra llevar un control sobre consultas previas y detalles de las mismas.
 
-## Calendario de turnos 
+### Calendario de turnos 
 
 * **Actor:** Medicos/profesionales y personal administrativo.
 * **Descripcion:** El personal de centro podra llevar un control diario/mensual sobre los turnos asignados.
