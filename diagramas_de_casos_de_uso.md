@@ -17,3 +17,9 @@
 - El sistema notifica al usuario sobre el turno elegido.
 
   [Caso de Uso 3 - Notificaciones](https://drive.google.com/file/d/19R9CauPGOo22u5HRhHXeDplDrzupXgtP/view?usp=sharing)
+
+## Historial de Turnos
+
+- El usuario/repecionista/medico podran ver turnos/consultas efectuadas anteriormente.
+
+  [Caso de Uso 4 - Historial de Turno](https://drive.google.com/file/d/15xM3yO1fjofy6m1y4vuxoENSytzELIEo/view?usp=sharing)
