@@ -14,4 +14,4 @@ El objetivo de este sistema sera organizar las solicitudes de turnos de manera m
 
 ## Anexos
 
-Para visualizar mas informacion ingresar a [Anexo](anexo.md)
+Para visualizar mas informacion ingresar a [Anexo](Anexo.md)
