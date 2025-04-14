@@ -10,4 +10,10 @@
 
 - El usuario o recepcionista solicita un turno por medio del sistema segun las condiciones del usuario.
 
-  [Caso de Uso 2 - Nombre del Caso de Uso 2](https://drive.google.com/file/d/1OhEXzv1_cnZ7AaUl6Dr_fRHzY6nuIGNk/view?usp=sharing)
+  [Caso de Uso 2 - Solicitud de Turno](https://drive.google.com/file/d/1OhEXzv1_cnZ7AaUl6Dr_fRHzY6nuIGNk/view?usp=sharing)
+
+## Notificaciones
+
+- El sistema notifica al usuario sobre el turno elegido.
+
+  [Caso de Uso 3 - Notificaciones](https://drive.google.com/file/d/19R9CauPGOo22u5HRhHXeDplDrzupXgtP/view?usp=sharing)
