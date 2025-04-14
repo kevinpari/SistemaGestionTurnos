@@ -22,4 +22,10 @@
 
 - El usuario/repecionista/medico podran ver turnos/consultas efectuadas anteriormente.
 
-  [Caso de Uso 4 - Historial de Turno](https://drive.google.com/file/d/15xM3yO1fjofy6m1y4vuxoENSytzELIEo/view?usp=sharing)
+  [Caso de Uso 4 - Historial de Turnos](https://drive.google.com/file/d/15xM3yO1fjofy6m1y4vuxoENSytzELIEo/view?usp=sharing)
+
+## Calendario de Turnos
+
+- El recepcionista/medico podra llevara control diario/mensual sobre los turnos asignados.
+
+  [Caso de Uso 5 - Calendario de Turnos](https://drive.google.com/file/d/1NRyM-nqq43wXTA-6-ZhEazvCWvoN-tL-/view?usp=sharing)
