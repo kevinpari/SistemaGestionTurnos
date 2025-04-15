@@ -18,7 +18,7 @@ El objetivo de este sistema sera organizar las solicitudes de turnos de manera m
 
 - [Anexo](Anexo.md)
   
-- [Introducción al Diseño Orientado a Objetos](introduccion.md)
+- [Introducción al Diseño Orientado a Objetos](Introduccion.md)
 
 - [Diagramas UML](DiagramasUML.md)
 
