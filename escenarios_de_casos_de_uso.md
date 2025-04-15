@@ -37,7 +37,7 @@ El usuario puede registrarse en sistema con el fin de solicitar turnos medicos, 
  - Se registra la fecha y hora de la notificación en el sistema.
  - El usuario tendra una reserva formal via mail.
 
-![Caso de Uso 1 - Registro Inicial](https://docs.google.com/spreadsheets/d/1iDibAocPatfpSnckenbusRCkZAPGzphCoc3sMy9lmjA/edit?usp=sharing)
+[Caso de Uso 1 - Nombre del Escenario Caso de Uso 1](https://docs.google.com/spreadsheets/d/1iDibAocPatfpSnckenbusRCkZAPGzphCoc3sMy9lmjA/edit?usp=sharing)
 
 
    
