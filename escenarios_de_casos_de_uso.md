@@ -1,6 +1,6 @@
 # Escenario de caso de uso 
 
-## 1) Solicitar Turno Médico
+## 1) Registro Inicial
 
 ### Descripción General
 
@@ -33,12 +33,50 @@ El usuario puede registrarse en sistema con el fin de solicitar turnos medicos, 
 
 ### Poscondiciones 
 
+ - El usuario genera un perfil de paciente.
+ - El usuario contara con una plataforma rapida a la mano
+
+[Caso de Uso 1 - Registro Inicial](https://docs.google.com/spreadsheets/d/1iDibAocPatfpSnckenbusRCkZAPGzphCoc3sMy9lmjA/edit?usp=sharing)
+
+
+## 2) Gestion de turnos
+
+### Descripción General
+
+El usuario/recepcionista puede generar un turno medico de manera repida, eficaz y comoda.
+
+### Flujo de eventos
+
+1. **Ingreso a sistema**  
+   - El usuario ingresa al sistema.
+
+2. **El usuario ingresa sus datos de paciente**  
+   - El usuario ingresa la sistema con sus datos personales, ya registrado.
+
+3. **Solicitud de turno**  
+   - El sistema puede elegir el medico deseado segun especialidad/fecha/horario.
+
+4. **Inconveniente de solicitud**  
+   - Llegado a tener algun problema el usuario, puede generar sus solicitud por medio de un recepcionista. 
+
+5. **Confirmacion de datos**  
+   - El usuario de confirmar sus datos para efectuar la reserva.
+  
+6. **Datos de reserva**  
+   - El sistema le envia una confirmacion del turno por mail.
+  
+### Precondiciones
+
+ - El usuario debe estar registrado en el sistema.
+ - El usuario no debe tener mas de un turno en un mismo dia y horario
+
+### Poscondiciones 
+
  - El usuario confirma turno segun necesidades especificas
- - Se registra la fecha y hora de la notificación en el sistema.
+ - Se registra la fecha y hora de la reserva en el sistema.
  - El usuario tendra una reserva formal via mail.
 
-[Caso de Uso 1 - Nombre del Escenario Caso de Uso 1](https://docs.google.com/spreadsheets/d/1iDibAocPatfpSnckenbusRCkZAPGzphCoc3sMy9lmjA/edit?usp=sharing)
-
+[Caso de Uso 2 - Gestion de Turnos](https://docs.google.com/spreadsheets/d/1YqXoRkZ8ns9GaxsD1G4IxjYA0E8N67veo2R2syTCskc/edit?usp=sharing)
 
    
 
