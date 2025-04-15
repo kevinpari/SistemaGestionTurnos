@@ -20,11 +20,11 @@ El usuario puede registrarse en sistema con el fin de solicitar turnos medicos, 
 4. **Validacion de datos**  
    - El paciente debe completar y validar datos personales y medicos. 
 
-5. **Confirmacion de turno**  
-   - Una vez registrado el usuario puede seleccionar el turno deseado segun requerimentos.
+5. **Eleccion de turno**  
+   - En caso de ya estar registrado el usuario puede seleccionar el turno deseado segun requerimientos.
   
-4. **Notificacion de reserva**  
-   - Ya confirmado el turno se envia una notificacion de turno al usuario.
+6. **Notificacion de registro**  
+   - Ya ingresado en sistema el sistema le envia una notificacion de registro.
   
 ### Precondiciones
 
