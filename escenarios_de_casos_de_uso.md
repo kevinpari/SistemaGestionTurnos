@@ -129,7 +129,7 @@ El usuario o cualquier personal medico podra visualizar el historial de turnos h
    - Tanto el sector administrativo/medico debe ingresar en sistema con usuarios de personal disignado.
 
 4. **Visualizacion de historial**  
-   - los usuarios con acceso al sistema podran visualizar el hisotirail de turnos, por una parte los pacientes verificaran su historial personal y por otro el personal medico el paciente requerido.
+   - Los usuarios con acceso al sistema podran visualizar el hisotirail de turnos, por una parte los pacientes verificaran su historial personal y por otro el personal medico el paciente requerido.
   
 ### Precondiciones
 
@@ -142,6 +142,39 @@ El usuario o cualquier personal medico podra visualizar el historial de turnos h
  - EL personal medico podra llevar un mejor control de los pacientes tratados o a tratar.
 
 [Caso de Uso 4 - Hostorial de turnos](https://docs.google.com/spreadsheets/d/1XCcC-tH_H2AmWhlmQI8Zb9EEPM45lzWu5yNALwGzNnE/edit?usp=sharing)
+
+## 5) Calendario de turnos
+
+### Descripción General
+
+Por medio de un calendario de turnos, el personal medico podra llevar un mejor control con respecto a los turnos brindados/solicitados por parte de los usuarios.
+
+### Flujo de eventos
+
+1. **Asignacion de turnos**  
+   - El personal administrativo otorga turnos a pacientes segun las solcitudes que se presenten dia a dia.
+
+2. **Planificacion**  
+   - El personal verificara los dias siguientes para continuar brindando turnos en los dias disponibles.
+
+3. **Control de turnos**  
+   - El personal adminsitrativo/medico tendra un control segun las solicitudes efectuadas por los usuario por medio del sistema.
+
+4. **Modificacion de turnos**  
+   - El personal modificara los turnos que no puedan concetrase en caso de contar con mucha demanda o poco personal medico, en base al dia mas solicitado.
+  
+5. **Notificacion de aviso**
+   - El sistema/persona medico enviara una notificacion al usuario en caso de llevar a cabo una cancelacion/modificacion/confirmacion de turno.
+  
+### Precondiciones
+
+ - Contar con pacientes con turnos confirmados y vigentes.
+
+### Poscondiciones 
+
+ - Un mejor control administrativo con respecto a los turnos otorgados.
+
+[Caso de Uso 5 - Calendario de turnos](https://docs.google.com/spreadsheets/d/1Vd2VLOPPkbVEgE8nfFKkTMAk1Eg9RLoz9nYtfIaQEZQ/edit?usp=sharing)
 
 
 
