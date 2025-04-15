@@ -78,6 +78,73 @@ El usuario/recepcionista puede generar un turno medico de manera repida, eficaz 
 
 [Caso de Uso 2 - Gestion de Turnos](https://docs.google.com/spreadsheets/d/1YqXoRkZ8ns9GaxsD1G4IxjYA0E8N67veo2R2syTCskc/edit?usp=sharing)
 
+## 3) Notificaciones
+
+### Descripción General
+
+El sistema enviara informacion y avisos por asignaciones/cancelaciones al usuario/medico, debido a que de esta manera se llevara un prevenira ausencias medicas o de pacientes.
+
+### Flujo de eventos
+
+1. **Verificacion de reserva**  
+   - El usuario debera contar con una reserva efectuada anteriomente.
+
+2. **Avisos previos**  
+   - El usuario contara con un aviso de confirmacion en forma de notificacion.
+
+3. **Modificacion/cancelacion de turno**  
+   - El sistema alertara al usuario en caso de que se efecute una modificacion o cancelacion de turno.
+
+4. **Confirmacion de turno**  
+   - El sistema avisara al usuario dias previos al usuario para que este al tanto de su solicitud.
+
+5. **Reconfirmacion**  
+   - El sistema reconfirmara al usuario por la plataforma mail, para que el mismo este al tanto del turno elegido.
+  
+### Precondiciones
+
+ - El usuario debe contar con un turno elegido.
+
+### Poscondiciones 
+
+ - El usuario quedara alertado ante cualquier cambio con respecto al turno seleccionado.
+
+[Caso de Uso 3 - Notificaciones](https://docs.google.com/spreadsheets/d/1HQ6j5cDjQse3wKrqOjckHI9Vclj_MEZl8BB-2inHmQA/edit?usp=sharing)
+
+## 4) Historial de turnos
+
+### Descripción General
+
+El usuario o cualquier personal medico podra visualizar el historial de turnos hasta el dia de la fecha, esto permitira llevar un mejor control tanto desde el ambito profesional (medico especialista) como para el paciente.
+
+### Flujo de eventos
+
+1. **Ingreso**  
+   - El usuario/medico/recepcionista deben ingresar a sistema.
+
+2. **Logueo de usuario**  
+   - El usuario debera loguearse en sistema con sus datos personales.
+
+3. **Logueo administrativo**  
+   - Tanto el sector administrativo/medico debe ingresar en sistema con usuarios de personal disignado.
+
+4. **Visualizacion de historial**  
+   - los usuarios con acceso al sistema podran visualizar el hisotirail de turnos, por una parte los pacientes verificaran su historial personal y por otro el personal medico el paciente requerido.
+  
+### Precondiciones
+
+ - El usuario debe contar con turnos asignados previamente.
+ - El personal adminisitrativo debe contar con usuarios administrativos.
+
+### Poscondiciones 
+
+ - El usuario podra visualizar algun resultado medico/receta brindado anteriomente.
+ - EL personal medico podra llevar un mejor control de los pacientes tratados o a tratar.
+
+[Caso de Uso 4 - Hostorial de turnos](https://docs.google.com/spreadsheets/d/1XCcC-tH_H2AmWhlmQI8Zb9EEPM45lzWu5yNALwGzNnE/edit?usp=sharing)
+
+
+
    
 
 
