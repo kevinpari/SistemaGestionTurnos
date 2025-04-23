@@ -1,23 +1,11 @@
 # Diagramas de casos de uso
 
-## Registro Inicial
+-  [Caso de Uso 1 - Regristro Inicial](https://drive.google.com/file/d/1H65a9JLdR1DNVFR_ftym8SZGlj4_-tIe/view?usp=sharing)
 
-![Registro inicial](https://github.com/user-attachments/assets/ec46ca6e-b38f-41b2-824a-4b1eac32eb46)
+-  [Caso de Uso 2 - Solicitud de Turno](https://drive.google.com/file/d/1jipKZFGDobjiOXHkbdqAvfhEHVCN39EB/view?usp=sharing)
 
--  [Caso de Uso 1 - Regristro Inicial](https://drive.google.com/file/d/1EdgXRPtoF3ogILywIyOyj2QK2kxc5xn-/view?usp=sharing)
+-  [Caso de Uso 3 - Notificaciones](https://drive.google.com/file/d/1XnOoXWoE2Orq0BHWnydDmJ24RelElwrF/view?usp=sharing)
 
-## Solicitud de Turno 
+-  [Caso de Uso 4 - Visualizacion de Historial de Turnos](https://drive.google.com/file/d/1aBJWFNA2yp8jzamuQIiLbQJvl6S0uYPX/view?usp=sharing)
 
--  [Caso de Uso 2 - Solicitud de Turno](https://drive.google.com/file/d/1OhEXzv1_cnZ7AaUl6Dr_fRHzY6nuIGNk/view?usp=sharing)
-
-## Notificaciones
-
--  [Caso de Uso 3 - Notificaciones](https://drive.google.com/file/d/19R9CauPGOo22u5HRhHXeDplDrzupXgtP/view?usp=sharing)
-
-## Historial de Turnos
-
--  [Caso de Uso 4 - Historial de Turnos](https://drive.google.com/file/d/15xM3yO1fjofy6m1y4vuxoENSytzELIEo/view?usp=sharing)
-
-## Calendario de Turnos
-
--  [Caso de Uso 5 - Calendario de Turnos](https://drive.google.com/file/d/1NRyM-nqq43wXTA-6-ZhEazvCWvoN-tL-/view?usp=sharing)
+-  [Caso de Uso 5 - Calendario de Turnos](https://drive.google.com/file/d/1KnP-ii6b8br4KTYOJexqsRg8BM3rIo1Z/view?usp=sharing)
