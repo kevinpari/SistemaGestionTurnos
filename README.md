@@ -21,4 +21,4 @@ El objetivo de este sistema sera organizar las solicitudes de turnos de manera m
 
 - [Diagramas UML](diagrmasUML.md)
 
-- [Herramientas agile](herramientas_agile.md)
+- [Herramientas Agile](herramientas_agile.md)
