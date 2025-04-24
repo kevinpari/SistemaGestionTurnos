@@ -118,4 +118,5 @@ Por ejemplo: Un "Animal" debido a que comparten la emision de algun sonido, pero
 * **Precondiciones:** Debe haber actividad y uso de la plataforma.
 * **Postcondiciones:** Mejor control sobre turnos y recoordinacion de los mismos en caso de contar con mayor demanda.
 
-[Boceto inicial del diseño de clases](https://drive.google.com/file/d/1VgL1OkkganaioIQ5bT8NAXkmF5l0h-xU/view?usp=sharing)
+![Boceto inicial del diseño de clases](https://github.com/user-attachments/assets/b19f4f15-0f0a-4f58-94ac-e52230139b0d)
+
