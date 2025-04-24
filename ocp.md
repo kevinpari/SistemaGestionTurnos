@@ -8,5 +8,14 @@ El Principio Abierto-Cerrado (OCP) plantea que el sistema debe estar abierto par
 
 En el sistema de gestión de turnos médicos, uno de los problemas más comunes aparecía cuando se necesitaba incorporar nuevas funcionalidades, como diferentes tipos de notificaciones dirigidas a pacientes y medicos. Inicialmente, solo se utilizaba el correo electrónico, pero con el tiempo al actualizarse los medios de contacto se fue agregando el SMS como otra alternativa de contacto. El inconveniente era que cada vez que se agregaba una nueva forma de notificación, había que modificar el codigo de funcionamiento ya existente y esto puede ocasionar fallas en las funciones ya vigentes, ademas de que el sistema se vuelve mas inestable ante mas cambios. El principio de abierto/cerrado (OCP) propone que los sistemas deben diseñarse de forma en la que puedan ampliarse sin necesidad de alterar el código original que ya está en funcionamiento. Es decir, permitir incorporar nuevas características/funciones sin modificar lo vigente.
 
-## Ejemplo
+### Ejemplo
+
+Tenemos como ejemplo una máquina de café automática en una oficina, inicialmente, la máquina tiene tres botones: café negro, café con leche, chocolate caliente y cada boton prepara una bebida especifica. Si se agrega una nueva bebida (cappuccino), tenés que abrir la máquina, modificar su programación interna, cambiar circuitos, etc. Esto es riesgoso, costoso y puede romper otras funciones.
+Una máquina de café diseñada con el principio OCP tendría ademas de las funciones ya vigentes lo siguiente: un sistema modular, donde cada bebida es un módulo intercambiable, en la se puede  agregar una nueva bebida, solo agregándo un nuevo cartucho/módulo o software, sin tocar el código/máquina base. De esta manera solo se agregaria las nuevas funciones sin tocar lo que ya funciona.
+
+
+![Principio de Abierto_Cerrado (OCP)](https://github.com/user-attachments/assets/d84a1995-d205-49d2-ad7b-6f45043ee663)
+
+[Estructura de clases](https://drive.google.com/file/d/1xiZ2DPH3rEGgFowO40Eje5HCoM9fIAv6/view?usp=sharing)
+
 
